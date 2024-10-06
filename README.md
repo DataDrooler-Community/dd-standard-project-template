@@ -37,7 +37,8 @@ This repository serves as a standard template for organizing data science and ma
 
 ## Contributing
 
-This template is maintained by the DataDrooler Community. For suggestions or improvements, please open an issue or submit a pull request.
+This template is maintained by DataDrooler.com 
+For suggestions or improvements, please open an issue or submit a pull request.
 
 ---
-Created by DataDrooler Community | Last Updated: October 2024
+Created by www.datadrooler.com | Last Updated: October 2024
