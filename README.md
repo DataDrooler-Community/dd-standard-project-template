@@ -4,6 +4,19 @@ A template for code documentation and readability
 
 ## Repository Structure
 
+```
+.
+├── abstract.md
+├── data
+│   └── data.md
+├── docs
+│   └── docs.md
+├── src
+│   └── scr.md
+└── README.md
+
+```
+
 - `abstract.md`: High-level overview of the project, its goals, and key findings.
 - `data/`: Store raw and processed datasets.
 - `docs/`: Project documentation, including data dictionaries and methodology explanations.
@@ -25,3 +38,6 @@ This repository serves as a standard template for organizing data science and ma
 ## Contributing
 
 This template is maintained by the DataDrooler Community. For suggestions or improvements, please open an issue or submit a pull request.
+
+---
+Created by DataDrooler Community | Last Updated: October 2024
